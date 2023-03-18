@@ -1,4 +1,4 @@
-# KEA_Unviersity_Portal
+# KEA_University_Portal
 
 We have created a prototype of a working college website portal using features of Object Oriented Programming and Data Structures. The program includes tabs like College Events, Syllabus, Placement Records etc. A user can interact and get information about these various aspects of the college directly through the portal. This helps keep track of all current activity taking place on a monthly basis in the college.
 
