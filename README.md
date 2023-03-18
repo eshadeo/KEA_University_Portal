@@ -14,3 +14,5 @@ As an admin, you can not only view but also edit these features:
 2. Study Material
 3. Events
 4. Placements
+
+Video explanation with Output : https://drive.google.com/file/d/14DYtv-682AfQzTuPW2HCFOQGUNKAyI4v/view?usp=share_link
